@@ -1,4 +1,4 @@
-let shipCount = 3;
+let shipCount: number = 3;
 
 export function countShips(){
     return shipCount * 3; 
